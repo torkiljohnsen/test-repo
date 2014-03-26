@@ -2,12 +2,13 @@
     "name": "torkiljohnsen/test-repo",
     "type": "library",
     "description": "A test repository",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Torkil Sinkaberg Johnsen",
             "email": "torkil.johnsen@gmail.com"
         }
     ],
-    
+
     "minimum-stability": "dev"
 }
