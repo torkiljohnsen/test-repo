@@ -1,0 +1,8 @@
+{
+    "name": "torkiljohnsen/test-repo",
+    "description": "A test repository",
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "dev"
+}
